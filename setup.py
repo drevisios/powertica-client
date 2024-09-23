@@ -17,5 +17,5 @@ setup(
     ],
     author='Dionysis Revisios',
     author_email='d.revisios@gmail.com',
-    url='https://github.com/yourusername/my_private_package',
+    url='https://github.com/drevisios/powertica-client',
 )
