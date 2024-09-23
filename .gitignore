@@ -1,3 +1,8 @@
 .idea/
 .venv/
 powertica_client/__pycache__
+.artifacts
+
+# for test
+test.py
+config.json
