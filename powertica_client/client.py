@@ -4,4 +4,4 @@ class PowerticaClient:
         pass
 
     def hello_world(self):
-        print('Hello World!')
+        print('Hello World! 2')

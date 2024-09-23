@@ -1,2 +1,3 @@
 .idea/
 .venv/
+powertica_client/__pycache__
